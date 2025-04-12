@@ -1,7 +1,7 @@
 # QR-код компонент 📱
 
 <div align="center">
-  <img src="assets/images/image-qr-code.png" alt="QR-код" width="300px">
+  <img src="https://raw.githubusercontent.com/Yazi939/Training_layout/main/assets/images/image-qr-code.png" alt="QR-код" width="300px">
 </div>
 
 ## 📋 О проекте
@@ -51,7 +51,7 @@ QR-код компонент/
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-аккаунт/qr-code-component.git
+   git clone https://github.com/Yazi939/Training_layout.git
    ```
 
 2. Откройте `index.html` в любом браузере или интегрируйте компонент в ваш проект.
