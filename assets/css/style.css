@@ -3,101 +3,122 @@
     src: url("../fonts/TildaSans-Bold.ttf");
     font-display: swap;
 }
+
 @font-face {
     font-family: "Tilda-Regular";
     src: url("../fonts/TildaSans-Regular.ttf");
     font-display: swap;
 }
+
 @font-face {
     font-family: "Tilda-Light";
     src: url("../fonts/TildaSans-Light.ttf");
     font-display: swap;
 }
+
 @font-face {
     font-family: "Tilda-Black";
     src: url("../fonts/TildaSans-Black.ttf");
     font-display: swap;
 }
-:root{
-      --main-font: 'Tilda-Black', sans-serif;
-      --second-font: "Tilda-Regular", sans-serif;
-}
-  
 
-*{
+:root {
+    --main-font: 'Tilda-Black', sans-serif;
+    --second-font: "Tilda-Regular", sans-serif;
+}
+
+
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
+
 }
-body{
+
+body {
     display: flex;
-    background-color: rgb(217, 237, 255);
+    background-color: #d5e1ef;
 }
-main{
+
+main {
     padding-top: 120px;
     display: flex;
     justify-content: center;
     width: 100%;
     height: 500px;
 }
-.card{
+
+.card {
     border-radius: 15px;
     padding: 10px;
-    display:flex ;
+    display: flex;
     flex-direction: column;
     width: 250px;
     height: 390px;
     background-color: white;
+    -webkit-box-shadow: 4px 31px 43px -17px rgba(141, 141, 141, 0.2);
+    -moz-box-shadow: 4px 31px 43px -17px rgba(141, 141, 141, 0.2);
+    box-shadow: 4px 31px 43px -17px rgba(141, 141, 141, 0.2);
 }
-.qr-area{
+
+.qr-area {
     border-radius: 10px;
     width: 100%;
     height: 60%;
     background-color: rgb(58, 117, 253);
 }
-.title-text{
+
+.title-text {
     margin-top: 25px;
     font-weight: bold;
     text-align: center;
     font-size: 19px;
 }
-.description-text{
+
+.description-text {
     font-weight: lighter;
     color: rgb(138, 156, 174);
     font-size: 12px;
     text-align: center;
     padding: 17px;
 }
-.qr-code-image{
+
+.qr-code-image {
     width: 100%;
     height: 100%;
     border-radius: 10px;
 }
-.accent-text{
+
+.accent-text {
     font-family: var(--main-font);
     font-weight: bolder;
     color: rgb(1, 46, 85)
 }
-.second-text{
+
+.second-text {
     font-family: var(--second-font);
 }
+
 @media only screen and (max-width: 1920px) and (min-width:900px) {
-    main{
+    main {
         width: 100%;
         height: 100%;
         align-items: center;
         align-content: center;
         padding-top: 10%;
     }
-    .card{
+
+    .card {
         width: 280px;
         height: 460px;
     }
-    .title-text{
-        font-size: 22px;
+
+    .title-text {
+        font-size: 21px;
+
     }
-    .description-text{
+
+    .description-text {
         font-size: 14px;
     }
 }
