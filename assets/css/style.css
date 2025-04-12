@@ -77,7 +77,7 @@ main {
 
 .description-text {
     font-weight: lighter;
-    color: rgb(138, 156, 174);
+    color: #68778D;
     font-size: 12px;
     text-align: center;
     padding: 17px;
@@ -92,7 +92,7 @@ main {
 .accent-text {
     font-family: var(--main-font);
     font-weight: bolder;
-    color: rgb(1, 46, 85)
+    color: #1F314F;
 }
 
 .second-text {
