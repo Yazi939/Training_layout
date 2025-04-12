@@ -44,7 +44,8 @@ QR-код компонент/
 ## 🔍 Предпросмотр
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yazi939/Training_layout/main/assets/images/image-qr-code.png" alt="Предпросмотр компонента" width="400px">
+  <img src="https://github.com/Yazi939/Training_layout/assets/136600256/03c58d92-2f68-4fcf-8a36-0cfe3cfbe42a" alt="Предпросмотр компонента" width="400px">
+  <p>Дизайн компонента QR-кода для сканирования</p>
 </div>
 
 ## 💻 Как использовать
