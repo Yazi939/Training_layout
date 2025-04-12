@@ -44,7 +44,7 @@ QR-код компонент/
 ## 🔍 Предпросмотр
 
 <div align="center">
-  <img src="https://i.ibb.co/VJmfhzx/preview.jpg" alt="Предпросмотр компонента" width="600px">
+  <img src="https://raw.githubusercontent.com/Yazi939/Training_layout/main/assets/images/image-qr-code.png" alt="Предпросмотр компонента" width="400px">
 </div>
 
 ## 💻 Как использовать
