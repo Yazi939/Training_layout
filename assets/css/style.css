@@ -109,6 +109,7 @@ main {
     }
 
     .card {
+        margin-top: 50px;
         width: 280px;
         height: 460px;
     }
