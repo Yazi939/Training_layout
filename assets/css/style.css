@@ -82,3 +82,22 @@ main{
 .second-text{
     font-family: var(--second-font);
 }
+@media only screen and (max-width: 1920px) and (min-width:900px) {
+    main{
+        width: 100%;
+        height: 100%;
+        align-items: center;
+        align-content: center;
+        padding-top: 10%;
+    }
+    .card{
+        width: 280px;
+        height: 460px;
+    }
+    .title-text{
+        font-size: 22px;
+    }
+    .description-text{
+        font-size: 14px;
+    }
+}
