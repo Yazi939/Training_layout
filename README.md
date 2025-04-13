@@ -14,50 +14,35 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<table border="0">
-  <tr>
-    <td width="70%" valign="top">
-      <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Технический стек</h2>
-      
-      <h3>🌐 Фронтенд</h3>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-        <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT" />
-        <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="VUE.JS" />
-        <img src="https://img.shields.io/badge/АДАПТИВНАЯ_ВЁРСТКА-3DDC84?style=for-the-badge&logoColor=white" alt="АДАПТИВНАЯ ВЁРСТКА" />
-      </p>
-      
-      <h3>⚙️ Бэкенд</h3>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="LARAVEL" />
-        <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
-        <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-      </p>
-      
-      <h3>🎨 Дизайн</h3>
-      <p>
-        <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" />
-        <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="PHOTOSHOP" />
-        <img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="ILLUSTRATOR" />
-        <img src="https://img.shields.io/badge/UI/UX_DESIGN-0ACF83?style=for-the-badge&logo=webflow&logoColor=white" alt="UI/UX DESIGN" />
-      </p>
-      
-      <h3>🛠️ Инструменты</h3>
-      <p>
-        <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
-        <img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="SEO" />
-        <img src="https://img.shields.io/badge/GOOGLE_PAGESPEED-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="GOOGLE PAGESPEED" />
-        <img src="https://img.shields.io/badge/AI_INTEGRATION-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI INTEGRATION" />
-      </p>
-    </td>
-    <td width="30%" align="center">
-      <img alt="Developer Coding" width="100%" src="https://i.ibb.co/R2mZ8dL/developer.png" />
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Developer Coding" width="400" src="https://i.ibb.co/R2mZ8dL/developer.png" />
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Технический стек
+
+### 🌐 Фронтенд
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Адаптивная верстка](https://img.shields.io/badge/АДАПТИВНАЯ_ВЁРСТКА-3DDC84?style=for-the-badge&logoColor=white)
+
+### ⚙️ Бэкенд
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🎨 Дизайн
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI/UX_DESIGN-0ACF83?style=for-the-badge&logo=webflow&logoColor=white)
+
+### 🛠️ Инструменты
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Google PageSpeed](https://img.shields.io/badge/GOOGLE_PAGESPEED-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_INTEGRATION-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
