@@ -77,14 +77,14 @@
       <td align="center" width="50%">
         <h3>Pales — концептуальный дизайн</h3>
         <a href="https://dprofile.ru/case/111836/pales-konceptualnyi-dizain" target="_blank">
-          <img src="https://i.ibb.co/kXdB2jx/portfolio-preview.jpg" width="100%" alt="Pales — концептуальный дизайн"/>
+          <img src="https://i.ibb.co/LSvQ7XJ/pales-3d.jpg" width="100%" alt="Pales — концептуальный дизайн"/>
         </a>
         <p>
           <a href="https://dprofile.ru/case/111836/pales-konceptualnyi-dizain" target="_blank">
             <img src="https://img.shields.io/badge/-Посмотреть_проект-000000?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
-        <p><strong>UI/UX дизайн | Адаптивный дизайн</strong></p>
+        <p><strong>UI/UX дизайн | 3D визуализация | Адаптивный дизайн</strong></p>
       </td>
       <td align="center" width="50%">
         <h3>Скоро здесь появятся новые проекты</h3>
@@ -118,4 +118,4 @@
 <div align="center">
   <p>✨ <strong>Давайте создавать что-то удивительное вместе!</strong> ✨</p>
   <img src="https://komarev.com/ghpvc/?username=Yazi939&color=blueviolet&style=for-the-badge&label=ПРОСМОТРЫ" alt="Profile views"/>
-</div>
+</div> 
