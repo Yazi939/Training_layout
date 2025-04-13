@@ -72,8 +72,34 @@
 <h3>🎨 Портфолио</h3>
 
 <div align="center">
-  <h4>Мои проекты можно посмотреть на <a href="https://dprofile.ru/case/111836/pales-konceptualnyi-dizain" target="_blank">Dprofile</a></h4>
-  <p>Я специализируюсь на UI/UX дизайне, 3D визуализации и адаптивной вёрстке</p>
+  <table style="width:100%; border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" width="50%" style="border: none; padding: 20px; background-color: #111; border-radius: 10px; margin: 10px;">
+        <h3 style="margin-bottom: 15px;">Pales — концептуальный дизайн</h3>
+        <p>Современный дизайн-проект с уникальными 3D моделями и интерактивными элементами. Сочетание стильного интерфейса и удобной навигации.</p>
+        <div align="center" style="margin-top: 15px;">
+          <a href="https://dprofile.ru/case/111836/pales-konceptualnyi-dizain" target="_blank" style="text-decoration: none;">
+            <div style="background-color: #000; color: white; padding: 8px 16px; border-radius: 4px; display: inline-block;">
+              👁 посмотреть проект
+            </div>
+          </a>
+        </div>
+        <p style="margin-top: 15px;"><strong>UI/UX дизайн | 3D визуализация | Адаптивный дизайн</strong></p>
+      </td>
+      <td align="center" width="50%" style="border: none; padding: 20px; background-color: #111; border-radius: 10px; margin: 10px;">
+        <h3 style="margin-bottom: 15px;">Скоро здесь появятся новые проекты</h3>
+        <p>В данный момент я работаю над новыми интересными проектами, которые скоро будут доступны в моём портфолио.</p>
+        <div align="center" style="margin-top: 15px;">
+          <a href="https://github.com/Yazi939" target="_blank" style="text-decoration: none;">
+            <div style="background-color: #333; color: white; padding: 8px 16px; border-radius: 4px; display: inline-block;">
+              🔔 следите за обновлениями
+            </div>
+          </a>
+        </div>
+        <p style="margin-top: 15px;"><strong>В разработке</strong></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h3>📊 Статистика</h3>
