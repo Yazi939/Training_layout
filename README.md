@@ -1,7 +1,7 @@
 # 👋 Привет, меня зовут Матвей!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Я&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-stuck%20разработчик%20%7C%20Веб-дизайнер&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Я&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-stack%20разработчик%20%7C%20Веб-дизайнер&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
