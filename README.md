@@ -1,7 +1,7 @@
-# 👋 Привет, меня зовут Матвей!
+# 👋 Привет, меня зовут Я!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Матвей&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Фулл-стек%20разработчик%20%7C%20Веб-дизайнер&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Я&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Фулл-стек%20разработчик%20%7C%20Веб-дизайнер&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -153,5 +153,5 @@
   
   <p>✨ <strong>Давайте создавать что-то удивительное вместе!</strong> ✨</p>
   
-  <img src="https://komarev.com/ghpvc/?username=Yazi939&color=blueviolet&style=for-the-badge&label=ПРОСМОТРЫ ПРОФИЛЯ" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Yazi939?label=Подписчики&style=for-the-badge&color=blueviolet" alt="followers" />
 </div> 
