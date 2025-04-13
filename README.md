@@ -1,128 +1,157 @@
 # 👋 Привет, меня зовут Матвей!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZ2JlMGMzYnk3OXRiZDNlMHg1aHU1OHV0MDcwZWxrazFtZzQ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Матвей&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Фулл-стек%20разработчик%20%7C%20Веб-дизайнер&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
-  <h2>💻 Фулл-стек разработчик & 🎨 Веб-дизайнер</h2>
-  <p>Я создаю эффективные и красивые веб-решения, объединяя опыт разработки и дизайна.</p>
+  <a href="https://github.com/Yazi939">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&width=800&lines=Создаю+красивые+и+функциональные+веб-решения;Комбинирую+современные+технологии+и+дизайн;Превращаю+идеи+в+цифровые+продукты" alt="Typing SVG" />
+  </a>
 </div>
 
-<details open>
-  <summary><h3>🚀 Технический стек</h3></summary>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZ2JlMGMzYnk3OXRiZDNlMHg1aHU1OHV0MDcwZWxrazFtZzQ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Технический стек</b>
+
+<div align="left">
+  <h3>🌐 Фронтенд</h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Адаптивная_вёрстка-3DDC84?style=for-the-badge&logoColor=white" alt="Адаптивная вёрстка" />
   
-  <h4>Фронтенд</h4>
-  <p>
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-    <img alt="Responsive" src="https://img.shields.io/badge/-Адаптивная_вёрстка-3DDC84?style=for-the-badge&logoColor=white" />
-  </p>
-
-  <h4>Бэкенд</h4>
-  <p>
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img alt="REST API" src="https://img.shields.io/badge/-REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  </p>
-
-  <h4>Дизайн</h4>
-  <p>
-    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-    <img alt="UI/UX Design" src="https://img.shields.io/badge/-UI/UX_Design-0ACF83?style=for-the-badge&logo=webflow&logoColor=white" />
-  </p>
-
-  <h4>Инструменты</h4>
-  <p>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="SEO" src="https://img.shields.io/badge/-SEO-47A248?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
-    <img alt="PageSpeed" src="https://img.shields.io/badge/-Google_PageSpeed-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    <img alt="AI" src="https://img.shields.io/badge/-AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  </p>
-</details>
-
-<details open>
-  <summary><h3>💼 Ключевые компетенции</h3></summary>
+  <h3>⚙️ Бэкенд</h3>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   
-  <ul>
-    <li>📌 <b>Полный цикл разработки</b> — от дизайна до запуска: макеты, верстка, логика, API и БД</li>
-    <li>📌 <b>Интеграция SEO-рекомендаций</b> — оптимизация контента и кода, работа с метатегами, семантическая верстка</li>
-    <li>📌 <b>UI/UX дизайн</b> — создание удобных и эстетичных интерфейсов с учетом пользовательского опыта</li>
-    <li>📌 <b>Оптимизация производительности</b> — улучшение показателей Google PageSpeed и Lighthouse</li>
-    <li>📌 <b>Адаптивный дизайн</b> — разработка интерфейсов, корректно отображающихся на всех устройствах</li>
-    <li>📌 <b>Работа с нейросетями</b> — интеграция AI для автоматизации задач и генерации контента</li>
-  </ul>
-</details>
-
-<details>
-  <summary><h3>⌛ Опыт работы</h3></summary>
+  <h3>🎨 Дизайн</h3>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/UI/UX_Design-0ACF83?style=for-the-badge&logo=webflow&logoColor=white" alt="UI/UX Design" />
   
-  <ul>
-    <li>💼 <b>Фулл-стек разработчик</b> — 2 года (коммерческие и pet-проекты)</li>
-    <li>💼 <b>Веб-дизайнер</b> — 1 год</li>
-  </ul>
-</details>
-
-<h3>🎨 Портфолио</h3>
+  <h3>🛠️ Инструменты</h3>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="SEO" />
+  <img src="https://img.shields.io/badge/Google_PageSpeed-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google PageSpeed" />
+  <img src="https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integration" />
+</div>
 
 <div align="center">
-  <table style="width:100%; border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="50%" style="border: none; padding: 20px; background-color: #111; border-radius: 10px; margin: 10px;">
-        <h3 style="margin-bottom: 15px;">Pales — концептуальный дизайн</h3>
-        <p>Современный дизайн-проект с уникальными 3D моделями и интерактивными элементами. Сочетание стильного интерфейса и удобной навигации.</p>
-        <div align="center" style="margin-top: 15px;">
-          <a href="https://dprofile.ru/case/111836/pales-konceptualnyi-dizain" target="_blank" style="text-decoration: none;">
-            <div style="background-color: #000; color: white; padding: 8px 16px; border-radius: 4px; display: inline-block;">
-              👁 посмотреть проект
-            </div>
-          </a>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> <b>Ключевые компетенции</b>
+
+<div style="display: inline-block;">
+<img align="right" width="320" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" />
+
+- 🚀 **Полный цикл разработки** — от прототипа до запуска
+- 🔍 **SEO-оптимизация** — структурированные данные, семантика
+- 📱 **UI/UX дизайн** — создание интуитивных интерфейсов
+- 🏎️ **Оптимизация производительности** — быстрая загрузка
+- 📊 **Адаптивная вёрстка** — идеальное отображение на всех экранах
+- 🤖 **AI интеграция** — автоматизация рутинных задач
+
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Опыт работы</b>
+
+<div align="center">
+  <img align="center" src="https://github-readme-timeline.garretcharp.com/timeline?username=Yazi939&stroke=0891b2&bg=0d1117&count=8&height=120&dates=ffffff&date_bg=2563eb" />
+</div>
+
+<ul>
+  <li>💻 <b>Фулл-стек разработчик</b> — 2 года (коммерческие и pet-проекты)</li>
+  <li>🎨 <b>Веб-дизайнер</b> — 1 год</li>
+</ul>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> <b>Портфолио</b>
+
+<table>
+  <tr>
+    <td>
+      <div class="project-card" align="center" style="padding: 20px; background: #0D1117; border-radius: 15px; border: 1px solid #30363D; overflow: hidden;">
+        <h3>Pales — концептуальный дизайн</h3>
+        <div style="padding: 15px;">
+          <p>Современный дизайн-проект с уникальными 3D моделями и интерактивными элементами. Профессиональная платформа для цифровых художников.</p>
         </div>
-        <p style="margin-top: 15px;"><strong>UI/UX дизайн | 3D визуализация | Адаптивный дизайн</strong></p>
-      </td>
-      <td align="center" width="50%" style="border: none; padding: 20px; background-color: #111; border-radius: 10px; margin: 10px;">
-        <h3 style="margin-bottom: 15px;">Скоро здесь появятся новые проекты</h3>
-        <p>В данный момент я работаю над новыми интересными проектами, которые скоро будут доступны в моём портфолио.</p>
-        <div align="center" style="margin-top: 15px;">
-          <a href="https://github.com/Yazi939" target="_blank" style="text-decoration: none;">
-            <div style="background-color: #333; color: white; padding: 8px 16px; border-radius: 4px; display: inline-block;">
-              🔔 следите за обновлениями
-            </div>
-          </a>
+        <a href="https://dprofile.ru/case/111836/pales-konceptualnyi-dizain" target="_blank">
+          <img src="https://img.shields.io/badge/-%F0%9F%91%81%20ПОСМОТРЕТЬ%20ПРОЕКТ-13c2c2?style=for-the-badge&logoColor=white" />
+        </a>
+        <p style="margin-top: 15px; color: #64ffda;"><b>UI/UX дизайн | 3D визуализация | Адаптивный дизайн</b></p>
+      </div>
+    </td>
+    <td>
+      <div class="project-card" align="center" style="padding: 20px; background: #0D1117; border-radius: 15px; border: 1px solid #30363D; overflow: hidden;">
+        <h3>Coming Soon</h3>
+        <div style="padding: 15px;">
+          <p>Новые инновационные проекты в разработке. Следите за обновлениями моего портфолио для доступа к эксклюзивным материалам.</p>
         </div>
-        <p style="margin-top: 15px;"><strong>В разработке</strong></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3>📊 Статистика</h3>
+        <a href="https://github.com/Yazi939" target="_blank">
+          <img src="https://img.shields.io/badge/-%F0%9F%94%94%20СЛЕДИТЬ%20ЗА%20ОБНОВЛЕНИЯМИ-6E40C9?style=for-the-badge&logoColor=white" />
+        </a>
+        <p style="margin-top: 15px; color: #ffbe0b;"><b>В разработке</b></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazi939&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<h3>📞 Свяжитесь со мной</h3>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> <b>GitHub статистика</b>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazi939&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Yazi939&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Связаться со мной</b>
 
 <div align="center">
   <a href="https://t.me/makleimk" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:yazikrutoy@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Yazi939" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%" />
+  
   <p>✨ <strong>Давайте создавать что-то удивительное вместе!</strong> ✨</p>
-  <img src="https://komarev.com/ghpvc/?username=Yazi939&color=blueviolet&style=for-the-badge&label=ПРОСМОТРЫ" alt="Profile views"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Yazi939&color=blueviolet&style=for-the-badge&label=ПРОСМОТРЫ ПРОФИЛЯ" alt="Profile views" />
 </div> 
