@@ -72,19 +72,21 @@
 <h3>🎨 Портфолио</h3>
 
 <div align="center">
-  <table style="width:100%">
+  <table style="width:100%; border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" width="50%">
-        <h3>Pales — концептуальный дизайн</h3>
+      <td align="center" width="50%" style="border: none; padding: 15px; background-color: #111;">
+        <h3 style="margin-bottom: 15px;">Pales — концептуальный дизайн</h3>
         <a href="https://dprofile.ru/case/111836/pales-konceptualnyi-dizain" target="_blank">
-          <img src="https://i.ibb.co/LSvQ7XJ/pales-3d.jpg" width="100%" alt="Pales — концептуальный дизайн"/>
+          <img src="https://github.com/Yazi939/Yazi939/raw/main/Pales.png" width="100%" alt="Pales — концептуальный дизайн"/>
         </a>
-        <p>
-          <a href="https://dprofile.ru/case/111836/pales-konceptualnyi-dizain" target="_blank">
-            <img src="https://img.shields.io/badge/-Посмотреть_проект-000000?style=for-the-badge&logo=github&logoColor=white"/>
+        <div align="center" style="margin-top: 15px;">
+          <a href="https://dprofile.ru/case/111836/pales-konceptualnyi-dizain" target="_blank" style="text-decoration: none;">
+            <div style="background-color: #000; color: white; padding: 8px 16px; border-radius: 4px; display: inline-block;">
+              👁 посмотреть проект
+            </div>
           </a>
-        </p>
-        <p><strong>UI/UX дизайн | 3D визуализация | Адаптивный дизайн</strong></p>
+        </div>
+        <p style="margin-top: 15px;"><strong>UI/UX дизайн | 3D визуализация | Адаптивный дизайн</strong></p>
       </td>
       <td align="center" width="50%">
         <h3>Скоро здесь появятся новые проекты</h3>
