@@ -72,29 +72,8 @@
 <h3>🎨 Портфолио</h3>
 
 <div align="center">
-  <table style="width:100%; border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="50%" style="border: none; padding: 15px; background-color: #111;">
-        <h3 style="margin-bottom: 15px;">Pales — концептуальный дизайн</h3>
-        <a href="https://dprofile.ru/case/111836/pales-konceptualnyi-dizain" target="_blank">
-          <img src="https://github.com/Yazi939/Yazi939/raw/main/Pales.png" width="100%" alt="Pales — концептуальный дизайн"/>
-        </a>
-        <div align="center" style="margin-top: 15px;">
-          <a href="https://dprofile.ru/case/111836/pales-konceptualnyi-dizain" target="_blank" style="text-decoration: none;">
-            <div style="background-color: #000; color: white; padding: 8px 16px; border-radius: 4px; display: inline-block;">
-              👁 посмотреть проект
-            </div>
-          </a>
-        </div>
-        <p style="margin-top: 15px;"><strong>UI/UX дизайн | 3D визуализация | Адаптивный дизайн</strong></p>
-      </td>
-      <td align="center" width="50%">
-        <h3>Скоро здесь появятся новые проекты</h3>
-        <img src="https://i.ibb.co/vVSk8Bg/coming-soon.jpg" width="100%" alt="Coming Soon"/>
-        <p><strong>Следите за обновлениями...</strong></p>
-      </td>
-    </tr>
-  </table>
+  <h4>Мои проекты можно посмотреть на <a href="https://dprofile.ru/case/111836/pales-konceptualnyi-dizain" target="_blank">Dprofile</a></h4>
+  <p>Я специализируюсь на UI/UX дизайне, 3D визуализации и адаптивной вёрстке</p>
 </div>
 
 <h3>📊 Статистика</h3>
